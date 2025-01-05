@@ -1,0 +1,2 @@
+1) g++ Forbidden_Integer_800.cpp -o Forbidden_Integer_800
+2) ./Forbidden_Integer_800
